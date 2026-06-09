@@ -1,0 +1,6 @@
+{
+  "name": "Counting 1 to 100",
+  "description": "An interactive counting learning application for KG students in English, Hindi, and Gujarati with fun quizzes, tracing, and object counting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
